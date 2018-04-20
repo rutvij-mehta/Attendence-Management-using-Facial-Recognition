@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e551e27-1c90-463e-aab1-cbc989e77b04" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/31-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/37-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/37-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/37-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/37-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/38-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/38-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/38-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/38-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/45-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/45-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/45-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chech.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/df.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encod.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/40-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/40-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/40-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180327_132348.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180327_132359.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180327_132421.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180327_132426.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180327_132531.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180327_132614.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180327_132650.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180327_132922.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180327_133002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_123647.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_123702.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_123711.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_123713.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_123715.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_123718.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_123721.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_123818.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_123820.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_123824.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_123827.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_124822.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_124823.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_124829(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_124829.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_124829_1(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_124829_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_124841(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_124841.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_124848(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_124848.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_124913.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_124914.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_124915.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_125003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_125004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_125006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_125054.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_125057.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_125114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_125115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_125117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_125125.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_125126.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_125234.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_125236.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_125237.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_125248.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_125248_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130320.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130321.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130322.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130323.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130338.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130339.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130559.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130559_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130600_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130601.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130606.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130606_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130607.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130825.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130827.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130828.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130829.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130836.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130839.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130901.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130902.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130902_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130903.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130914.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/IMG_20180328_130914_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/WhatsApp Image 2018-03-31 at 11.43.21(1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/WhatsApp Image 2018-03-31 at 11.43.21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/WhatsApp Image 2018-03-31 at 11.43.22.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/WhatsApp Image 2018-03-31 at 11.43.23.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/group.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/unknown.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/unknown1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/123_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/1_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/1_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/1_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/1_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/1_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/2_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/2_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/2_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/40-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/40-1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/40-1_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/40-1_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/40-1_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/5_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG-20180401-WA0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG-20180401-WA0001_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG-20180401-WA0001_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG-20180401-WA0001_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG-20180401-WA0001_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG-20180401-WA0001_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG-20180401-WA0001_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG-20180401-WA0014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG-20180402-WA0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180328_124915.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_113923.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_113928.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_113928_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_113928_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_113928_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_122228.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_122228_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_122228_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_122228_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_122228_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_122228_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_122239.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_122239_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_122239_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_130304.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_130304_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_130348.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_130414.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/IMG_20180402_130531.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/WhatsApp_Image_2018-03-31_at_11.43.21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/WhatsApp_Image_2018-03-31_at_11.43.211.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/WhatsApp_Image_2018-03-31_at_11.43.22.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/WhatsApp_Image_2018-03-31_at_11.43.22_1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/WhatsApp_Image_2018-03-31_at_11.43.22_2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/WhatsApp_Image_2018-03-31_at_11.43.22_3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/WhatsApp_Image_2018-03-31_at_11.43.23.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/WhatsApp_Image_2018-03-31_at_11.43.23_1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/WhatsApp_Image_2018-03-31_at_11.43.23_2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/WhatsApp_Image_2018-03-31_at_11.43.23_3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/WhatsApp_Image_2018-03-31_at_11.43.23_4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/group.jpg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="e.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/e.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="75" />
+    <option name="y" value="44" />
+    <option name="width" value="1281" />
+    <option name="height" value="704" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SE" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="SE" />
+      <option name="target" value="$PROJECT_DIR$/frame.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e551e27-1c90-463e-aab1-cbc989e77b04" name="Default" comment="" />
+      <created>1523258004839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523258004839</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="75" y="44" width="1281" height="704" extended-state="0" />
+    <layout>
+      <window_info active="true" anchor="bottom" id="SVN Repositories" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/e.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
